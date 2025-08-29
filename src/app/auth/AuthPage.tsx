@@ -18,7 +18,7 @@ export default function AuthPage() {
       </header>
 
       {/* Bottom actions with background image */}
-      <div className="absolute inset-x-0 bottom-0 z-10">
+      <div className=" inset-x-0 bottom-0 z-10">
         <div className="relative">
           <img
             src={BACKGROUND_URL}
