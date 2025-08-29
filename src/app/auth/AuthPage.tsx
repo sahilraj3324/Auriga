@@ -28,7 +28,7 @@ export default function AuthPage() {
           />
           <div className="absolute inset-0 bg-white/85" />
 
-          <div className="relative px-5 pb-[max(16px,env(safe-area-inset-bottom))] pt-8">
+          <div className="relative px-5 pt-8">
             <div className="flex items-center gap-3">
                
               <button 
